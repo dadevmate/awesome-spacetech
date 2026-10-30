@@ -543,6 +543,7 @@
 | **SpaceLID** | Database | [bidd.group/spacelid](https://bidd.group/spacelid/) | Space Life Research Database. Food intake, storage, usage, menus. 236 entries. |
 | **Epicurious** | Project | [spaceapps-epicurious/spacefood](https://github.com/spaceapps-epicurious/spacefood) | Food component storage and point-of-consumption production for long-duration flight. |
 | **Food Fabricator** | Project | [danielng01/Food-Fabricator](https://github.com/danielng01/Food-Fabricator) | Warm Earthlike meals for deep-space crews. |
+| **Space Water Logistics** | Models | [SpaceOceanCorp/space-water-logistics](https://github.com/SpaceOceanCorp/space-water-logistics) | Crew water loop and recycling, lunar settlement water depletion, and Earth vs lunar water delivery. NASA BVAD Rev2 inputs, Python plus browser calculators. Apache-2.0. |
 
 ### Research Directions
 
